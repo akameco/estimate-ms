@@ -1,6 +1,6 @@
 {
   "name": "estimate-ms",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "output estimated time",
   "license": "MIT",
   "repository": "akameco/estimate-ms",
