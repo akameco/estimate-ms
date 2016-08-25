@@ -1,0 +1,35 @@
+{
+  "name": "estimate-ms",
+  "version": "0.0.0",
+  "description": "output estimated time",
+  "license": "MIT",
+  "repository": "akameco/estimate-ms",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "pretty-ms": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "sinon": "^1.17.5",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
