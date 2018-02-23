@@ -1,5 +1,7 @@
 # estimate-ms [![Build Status](https://travis-ci.org/akameco/estimate-ms.svg?branch=master)](https://travis-ci.org/akameco/estimate-ms)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/estimate-ms.svg)](https://greenkeeper.io/)
+
 > pretty output estimated time
 
 
